@@ -1,0 +1,42 @@
+html {
+  font-size: 8px; /* px means 'pixels': the base font size is now 10 pixels high  */
+  font-family: 'Exo 2', sans-serif; /* this should be the rest of the output you got from Google fonts */
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2, h3 {
+  font-size: 20px;    
+  line-height: 3;
+  letter-spacing: 1px;
+  text-align: center
+}
+
+p, li {
+  font-size: 18px;    
+  line-height: 1;
+  letter-spacing: 1px;
+  text-align: justify
+  }
+
+
+html {
+  background-color: #1C3F92;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 40px 60px 40px;
+  border: 5px solid black;
+}
+h1 {
+  margin: 0;
+  padding: 20px 0;    
+  color: #ffffff;
+  text-shadow: 3px 3px 1px black;
+}
